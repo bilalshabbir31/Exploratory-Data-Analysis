@@ -1,0 +1,10 @@
+
+
+How we can do automatically EDA?
+
+There are some libraries to save our time
+
+1) AutoViz
+2)Dtale
+3)Pandas Profiling
+4)sweetviz
